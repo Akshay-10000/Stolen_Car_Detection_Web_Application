@@ -1,4 +1,4 @@
-# Stolen_Car_Detection_Web_Applicatio
+# Stolen_Car_Detection_Web_Application
 
 
 It is estimated that around 100,000 cars are stolen each year in India. This number is only 
